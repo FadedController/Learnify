@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@types/react": "^17.0.5",
+    "@vercel/node": "^1.10.0",
     "autoprefixer": "^10.2.5",
     "postcss": "^8.2.15",
     "tailwindcss": "^2.1.2",
